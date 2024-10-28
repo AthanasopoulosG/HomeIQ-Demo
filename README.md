@@ -1,2 +1,2 @@
 # HomeIQ-Demo
-https://www.youtube.com/watch?v=WI-GMfCQGWU
+[![Watch the video](https://www.youtube.com/watch?v=WI-GMfCQGWU)

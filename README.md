@@ -1,2 +1,2 @@
 # HomeIQ-Demo
-https://www.youtube.com/watch?v=WI-GMfCQGWU
+[![SC2 Video](https://www.youtube.com/watch?v=WI-GMfCQGWU)

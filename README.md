@@ -1,8 +1,10 @@
-# HomeIQ-Demo
+# HomeIQ
+
+### Click on image below to get redirected to a demo on YouTube
 [![Watch the video](https://img.youtube.com/vi/WI-GMfCQGWU/0.jpg)](https://www.youtube.com/watch?v=WI-GMfCQGWU)
 
 
-## HomeIQ
+## HomeIQ general info
  HomeIQ is an IoT product that is to improve the daily living standards of an average user. It is a combination of hardware and software which effectively manages the resources of home . More specifically, as far as the hardware is concerned, it is an Arduino panel on which various other layers of material are embedded, such as humidity measuring sensors, temperature sensors, motion detectors and others. These sensors have to measure and collect data, communicate with each other and finally send their information to the user. As the sensors can be placed anywhere in the space, they support advanced wired and wireless communication protocols such as WiFi, Bluetooth, etc. 
  
  Οn the other hand, the software provides the ability to store, process and visualize the data. It also provides an interface to the user to access and process them in a simple and clear way. In addition, through this interface the user has the option to configure his devices / sensors, by sending commands to change the functionality of them. It is about an interactive communication between user and sensors. 

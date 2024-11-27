@@ -19,6 +19,6 @@
 ### Product Functions
 1. HomeIQ offers the opportunity to plug and play a variety of 3rd party devices on the HomeIQ mainframe through a web based setup process. Such process involves searching for devices with supported communication protocols in the area in close proximity to HomeIQ mainframe.
 2. All data are collected from the HomeIQ mainframe and forwarded to the server.
-3. All data are visualized in the web platform. Such visualization can be customized according to the needs of the user. One significant example of data visualization benefits of the app is the graphical display of the sensor's data for all or a specific room like temperature and humidity.
+3. All data are visualized in the web platform. Such visualization can be customized according to the needs of the user. One significant example of data visualization benefits of the app is the graphical display of the sensor's data for all or a specific room.
 4. The user is able to control the devices in the network that offer that capability through the web platforms. Example is shown in the video-demo provided above in which the user has access to lighting system of the house with a simple mouse click.
-5.  The user is able to create custom automations that combine different 3rd party devices. Such automations can involve complex device interaction that is coordinated from HomeIQ mainframe. 
+5.  The user is able to create custom automations that combine different 3rd party devices. Such automations can involve complex device interaction that is coordinated from HomeIQ mainframe. E.g. if the built-in automation is enabled and if livingroom's and Bedroom's lights are on then turn on lights in Kid's room automatically.
